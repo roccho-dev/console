@@ -1,6 +1,6 @@
 # console
 
-`console` deploys visualization of externally authoritative state; it does not define that state.
+console deploys visualization of externally authoritative state; it does not define that state.
 
 ## Purpose
 
